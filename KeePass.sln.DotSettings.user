@@ -1,0 +1,21 @@
+﻿<wpf:ResourceDictionary xml:space="preserve" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml" xmlns:s="clr-namespace:System;assembly=mscorlib" xmlns:ss="urn:shemas-jetbrains-com:settings-storage-xaml" xmlns:wpf="http://schemas.microsoft.com/winfx/2006/xaml/presentation">
+	<s:String x:Key="/Default/Environment/UnitTesting/UnitTestSessionStore/Sessions/=20eda568_002D5d76_002D432a_002D8ac4_002D2e334aa33a13/@EntryIndexedValue">&lt;SessionState ContinuousTestingMode="0" Name="CSVReader_Try_CreateReader_With_Unquoted_Defaults" xmlns="urn:schemas-jetbrains-com:jetbrains-ut-session"&gt;&#xD;
+  &lt;TestAncestor&gt;&#xD;
+    &lt;TestId&gt;MSTest::289DBAAC-A02B-47D2-8073-8FAF545B5F9C::net6.0::BottomUp_Testing.CsvStreamReaderIntegrationTests.CSVReader_Try_CreateReader_With_Unquoted_Defaults&lt;/TestId&gt;&#xD;
+  &lt;/TestAncestor&gt;&#xD;
+&lt;/SessionState&gt;</s:String>
+	<s:String x:Key="/Default/Environment/UnitTesting/UnitTestSessionStore/Sessions/=7cbc6afc_002Dd6b8_002D4e7e_002Da97f_002D8857c09d3f73/@EntryIndexedValue">&lt;SessionState ContinuousTestingMode="0" Name="CSVReader_Try_CreateReader_With_Unquoted_Defaults #2" xmlns="urn:schemas-jetbrains-com:jetbrains-ut-session"&gt;&#xD;
+  &lt;TestAncestor&gt;&#xD;
+    &lt;TestId&gt;MSTest::289DBAAC-A02B-47D2-8073-8FAF545B5F9C::net6.0::BottomUp_Testing.CsvStreamReaderIntegrationTests.CSVReader_Try_CreateReader_With_Unquoted_Defaults&lt;/TestId&gt;&#xD;
+  &lt;/TestAncestor&gt;&#xD;
+&lt;/SessionState&gt;</s:String>
+	<s:String x:Key="/Default/Environment/UnitTesting/UnitTestSessionStore/Sessions/=866f4f72_002D9c7a_002D4c8b_002Da7b1_002Ddabd9c6e6ebf/@EntryIndexedValue">&lt;SessionState ContinuousTestingMode="0" Name="CSVReader_Try_CreateReader_With_Unquoted_Defaults #3" xmlns="urn:schemas-jetbrains-com:jetbrains-ut-session"&gt;&#xD;
+  &lt;TestAncestor&gt;&#xD;
+    &lt;TestId&gt;MSTest::289DBAAC-A02B-47D2-8073-8FAF545B5F9C::net6.0::BottomUp_Testing.CsvStreamReaderIntegrationTests.CSVReader_Try_CreateReader_With_Unquoted_Defaults&lt;/TestId&gt;&#xD;
+  &lt;/TestAncestor&gt;&#xD;
+&lt;/SessionState&gt;</s:String>
+	<s:String x:Key="/Default/Environment/UnitTesting/UnitTestSessionStore/Sessions/=d260a1f6_002Dac78_002D4e8b_002Daec6_002D0206703766d1/@EntryIndexedValue">&lt;SessionState ContinuousTestingMode="0" IsActive="True" Name="CSVReader_Try_CreateReader_With_Unquoted_Defaults #4" xmlns="urn:schemas-jetbrains-com:jetbrains-ut-session"&gt;&#xD;
+  &lt;TestAncestor&gt;&#xD;
+    &lt;TestId&gt;MSTest::289DBAAC-A02B-47D2-8073-8FAF545B5F9C::net6.0::BottomUp_Testing.CsvStreamReaderIntegrationTests.CSVReader_Try_CreateReader_With_Unquoted_Explicitly&lt;/TestId&gt;&#xD;
+  &lt;/TestAncestor&gt;&#xD;
+&lt;/SessionState&gt;</s:String></wpf:ResourceDictionary>
